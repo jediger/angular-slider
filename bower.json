@@ -1,7 +1,7 @@
 {
   "name": "angular-slider",
   "description": "Slider directive implementation for AngularJS, without jQuery dependencies.",
-  "main": "slider.js",
+  "main": ["slider.js", "slider.css"],
   "keywords": [
     "angular",
     "slider",
